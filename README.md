@@ -250,7 +250,7 @@ outputs/
 
 # 👨‍💻 Author
 
-### Srikar
+### Sai Srikar Bommisetty
 
 Machine Learning Enthusiast | Data Science Explorer | Future AI Engineer
 
